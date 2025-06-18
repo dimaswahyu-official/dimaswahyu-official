@@ -1,11 +1,11 @@
 
 
-<h2 align="center">Hi 👋! My name is Dewe and I'm a Frontend Developer, from earth</h2>
+<h2 align="center">Hi 👋! My name is Dewe and I'm a Software Engineer, from Venus</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimaswahyu-official&show_icons=true&bg_color=00000000" height="150" alt="stats graph" /> <br>
+  <img src="![dimaswahyu-official GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaswahyu-official&theme=solarized-light&show_icons=true)" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimaswahyu-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
