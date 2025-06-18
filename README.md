@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋! My name is Dewe and I'm a Software Engineer, from Venus</h2>
+<h2 align="center">Hi! I'm Dewe and I'm a Software Engineer, from Venus</h2>
 
 ###
 
