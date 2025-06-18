@@ -5,17 +5,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimaswahyu-official&theme=solarized-light&show_icons=true" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dimaswahyu-official&theme=solarized-light&show_icons=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimaswahyu-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="129" width="300" src="https://media1.tenor.com/m/MYZgsN2TDJAAAAAC/this-is.gif"  />
+<img align="center" height="129" src="https://media1.tenor.com/m/MYZgsN2TDJAAAAAC/this-is.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="27" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="27" alt="typescript logo"  />
