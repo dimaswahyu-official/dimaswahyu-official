@@ -3,7 +3,7 @@
 <h2 align="center">Hi! I'm Dewe and I'm a Software Engineer, from Venus</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimaswahyu-official&theme=solarized-light&show_icons=true" height="150" alt="stats graph" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dimaswahyu-official&theme=merko&hide_border=true)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimaswahyu-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
